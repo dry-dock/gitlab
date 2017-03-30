@@ -1,2 +1,3 @@
 # gitlab
-Docker image for gitlab ce
+
+Docker image for gitlab ce. Used for local installations.
